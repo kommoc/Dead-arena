@@ -1,0 +1,91 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	RGBA_0_246_255_255: {
+		r: 0
+		g: 0.9684446
+		b: 1
+		a: 1
+	}
+	RGBA_77_255_203_255: {
+		r: 0.30333334
+		g: 1
+		b: 0.79966974
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	Spanel5_blue: {
+		name: Spanel5
+		color: RGBA_0_246_255_255
+	}
+	Spanel5_green: {
+		name: Spanel5
+		color: RGBA_77_255_203_255
+	}
+	panel5_green1: {
+		name: panel5
+		color: RGBA_77_255_203_255
+	}
+	panel2_green: {
+		name: panel2
+		color: RGBA_77_255_203_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.utils.TiledDrawable: {
+	checkBox_on_green: {
+		region: checkBox_on_1
+		color: RGBA_77_255_203_255
+		minWidth: 128
+		minHeight: 128
+	}
+	checkBox_off_green: {
+		region: checkBox_off
+		color: RGBA_77_255_203_255
+		minWidth: 128
+		minHeight: 128
+	}
+	panel6d_green: {
+		region: panel6d
+		color: RGBA_77_255_203_255
+		minWidth: 100
+		minHeight: 100
+	}
+	panel6_green: {
+		region: panel6
+		color: RGBA_77_255_203_255
+		minWidth: 100
+		minHeight: 100
+	}
+	panel6d_blue: {
+		region: panel6d
+		color: RGBA_0_246_255_255
+		minWidth: 100
+		minHeight: 100
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: panel5
+		down: panel5_green1
+		over: Spanel5_blue
+		checked: Spanel5_blue
+	}
+	slot_active: {
+		up: panel6d
+		down: panel6d_green
+		over: panel6d_blue
+		checked: panel6
+		checkedOver: panel6_green
+	}
+	switch: {
+		up: icon_next_pressed
+		down: icon_next
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		imageUp: panel2
+		imageDown: panel2_green
+	}
+}
+}
