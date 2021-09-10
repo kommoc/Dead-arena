@@ -1,0 +1,415 @@
+explosion_1_01
+- Delay -
+active: false
+- Duration - 
+lowMin: 150.0
+lowMax: 150.0
+- Count - 
+min: 0
+max: 1
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 150.0
+highMax: 150.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life Offset - 
+active: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 64.0
+lowMax: 64.0
+highMin: 346.0
+highMax: 512.0
+relative: false
+scalingCount: 2
+scaling0: 0.0
+scaling1: 0.98039216
+timelineCount: 2
+timeline0: 0.0
+timeline1: 1.0
+- Velocity - 
+active: false
+- Angle - 
+active: false
+- Rotation - 
+active: false
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 3
+colors0: 0.96862745
+colors1: 0.91764706
+colors2: 0.08235294
+timelineCount: 1
+timeline0: 0.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 0.0
+scaling1: 1.0
+scaling2: 0.68421054
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.061643835
+timeline2: 0.39041096
+timeline3: 1.0
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+- Image Path -
+texfx/scorch_01.png
+
+
+explosion_1_02
+- Delay -
+active: false
+- Duration - 
+lowMin: 1500.0
+lowMax: 1500.0
+- Count - 
+min: 0
+max: 48
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 512.0
+highMax: 512.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 3500.0
+highMax: 4500.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life Offset - 
+active: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 256.0
+highMax: 320.0
+relative: false
+scalingCount: 2
+scaling0: 0.0
+scaling1: 1.0
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.02739726
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 128.0
+highMax: 256.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.29411766
+timelineCount: 2
+timeline0: 0.0
+timeline1: 1.0
+- Angle - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 360.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Rotation - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 360.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 3
+colors0: 0.8745098
+colors1: 0.78039217
+colors2: 0.62352943
+timelineCount: 1
+timeline0: 0.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 0.0
+scaling1: 0.21052632
+scaling2: 0.1754386
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.12328767
+timeline2: 0.9041096
+timeline3: 1.0
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+- Image Path -
+texfx/smoke_06.png
+
+
+explosion_1_03
+- Delay -
+active: false
+- Duration - 
+lowMin: 64.0
+lowMax: 64.0
+- Count - 
+min: 360
+max: 512
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 4096.0
+highMax: 4096.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 512.0
+highMax: 512.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life Offset - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 420.0
+relative: false
+scalingCount: 3
+scaling0: 0.0
+scaling1: 0.0
+scaling2: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.5400959
+timeline2: 0.5410959
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 12.0
+highMax: 16.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Velocity - 
+active: true
+lowMin: 512.0
+lowMax: 0.0
+highMin: 512.0
+highMax: 2124.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.7254902
+timelineCount: 2
+timeline0: 0.0
+timeline1: 1.0
+- Angle - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 360.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Rotation - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 360.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 3
+colors0: 1.0
+colors1: 0.99215686
+colors2: 0.6313726
+timelineCount: 1
+timeline0: 0.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 0.0
+scaling1: 1.0
+scaling2: 0.80701756
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.07534247
+timeline2: 0.7328767
+timeline3: 1.0
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+- Image Path -
+texfx/muzzle_03.png
