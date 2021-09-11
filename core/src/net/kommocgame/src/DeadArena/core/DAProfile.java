@@ -150,6 +150,8 @@ public class DAProfile {
 				System.out.println("DAProfile.updatePlayerInventory() ### [2]" + inventory.getItemStackInSlot(2).getItem().getName());
 			
 			String json_info = json.toJson(inventory, InventoryPlayer.class);
+			json_info = json.prettyPrint(json_info);
+
 			FileWriter out = new FileWriter(Loader.getGameFile("android/assets/player.json").file());
 			out.flush();
 			out.write(json_info);
