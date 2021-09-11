@@ -1,0 +1,3438 @@
+{
+	"frames": [
+		{
+			"filename": "weapons/weapon_kpw.png",
+			"frame": {
+				"h": 278,
+				"w": 68,
+				"x": 1,
+				"y": 1
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 282,
+				"w": 68
+			},
+			"spriteSourceSize": {
+				"h": 278,
+				"w": 68,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_body.png",
+			"frame": {
+				"h": 133,
+				"w": 248,
+				"x": 1,
+				"y": 281
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 134,
+				"w": 248
+			},
+			"spriteSourceSize": {
+				"h": 133,
+				"w": 248,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/machinegun_minigun.png",
+			"frame": {
+				"h": 166,
+				"w": 44,
+				"x": 71,
+				"y": 1
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 166,
+				"w": 44
+			},
+			"spriteSourceSize": {
+				"h": 166,
+				"w": 44,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_machete.png",
+			"frame": {
+				"h": 24,
+				"w": 151,
+				"x": 71,
+				"y": 169
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 24,
+				"w": 151
+			},
+			"spriteSourceSize": {
+				"h": 24,
+				"w": 151,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_leg_left.png",
+			"frame": {
+				"h": 150,
+				"w": 90,
+				"x": 117,
+				"y": 1
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 150,
+				"w": 92
+			},
+			"spriteSourceSize": {
+				"h": 150,
+				"w": 90,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_leg_right.png",
+			"frame": {
+				"h": 148,
+				"w": 90,
+				"x": 209,
+				"y": 1
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 148,
+				"w": 92
+			},
+			"spriteSourceSize": {
+				"h": 148,
+				"w": 90,
+				"x": 2,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/rifle_ak12.png",
+			"frame": {
+				"h": 141,
+				"w": 16,
+				"x": 209,
+				"y": 151
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 149,
+				"w": 16
+			},
+			"spriteSourceSize": {
+				"h": 141,
+				"w": 16,
+				"x": 0,
+				"y": 8
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_shelder_left.png",
+			"frame": {
+				"h": 96,
+				"w": 135,
+				"x": 301,
+				"y": 1
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 96,
+				"w": 138
+			},
+			"spriteSourceSize": {
+				"h": 96,
+				"w": 135,
+				"x": 3,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/m4a1.png",
+			"frame": {
+				"h": 135,
+				"w": 13,
+				"x": 71,
+				"y": 195
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 135,
+				"w": 13
+			},
+			"spriteSourceSize": {
+				"h": 135,
+				"w": 13,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_body.png",
+			"frame": {
+				"h": 95,
+				"w": 134,
+				"x": 1,
+				"y": 531
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 95,
+				"w": 134
+			},
+			"spriteSourceSize": {
+				"h": 95,
+				"w": 134,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_shelder_right.png",
+			"frame": {
+				"h": 94,
+				"w": 134,
+				"x": 1,
+				"y": 667
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 95,
+				"w": 134
+			},
+			"spriteSourceSize": {
+				"h": 94,
+				"w": 134,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_body.png",
+			"frame": {
+				"h": 80,
+				"w": 120,
+				"x": 1,
+				"y": 803
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 80,
+				"w": 120
+			},
+			"spriteSourceSize": {
+				"h": 80,
+				"w": 120,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/akm.png",
+			"frame": {
+				"h": 120,
+				"w": 11,
+				"x": 301,
+				"y": 138
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 128,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 120,
+				"w": 11,
+				"x": 8,
+				"y": 5
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_head.png",
+			"frame": {
+				"h": 117,
+				"w": 103,
+				"x": 399,
+				"y": 1
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 117,
+				"w": 104
+			},
+			"spriteSourceSize": {
+				"h": 117,
+				"w": 103,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_arm_right.png",
+			"frame": {
+				"h": 68,
+				"w": 113,
+				"x": 71,
+				"y": 210
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 68,
+				"w": 113
+			},
+			"spriteSourceSize": {
+				"h": 68,
+				"w": 113,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_arm_left.png",
+			"frame": {
+				"h": 68,
+				"w": 113,
+				"x": 1,
+				"y": 925
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 68,
+				"w": 113
+			},
+			"spriteSourceSize": {
+				"h": 68,
+				"w": 113,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/m4a1_final.png",
+			"frame": {
+				"h": 112,
+				"w": 9,
+				"x": 399,
+				"y": 120
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 112,
+				"w": 9
+			},
+			"spriteSourceSize": {
+				"h": 112,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_hand_left.png",
+			"frame": {
+				"h": 72,
+				"w": 108,
+				"x": 504,
+				"y": 1
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 72,
+				"w": 108
+			},
+			"spriteSourceSize": {
+				"h": 72,
+				"w": 108,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_hand_right.png",
+			"frame": {
+				"h": 72,
+				"w": 108,
+				"x": 83,
+				"y": 803
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 72,
+				"w": 108
+			},
+			"spriteSourceSize": {
+				"h": 72,
+				"w": 108,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_body.png",
+			"frame": {
+				"h": 91,
+				"w": 104,
+				"x": 116,
+				"y": 913
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 91,
+				"w": 104
+			},
+			"spriteSourceSize": {
+				"h": 91,
+				"w": 104,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m.png",
+			"frame": {
+				"h": 91,
+				"w": 104,
+				"x": 97,
+				"y": 667
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 93,
+				"w": 106
+			},
+			"spriteSourceSize": {
+				"h": 91,
+				"w": 104,
+				"x": 1,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_l.png",
+			"frame": {
+				"h": 82,
+				"w": 104,
+				"x": 98,
+				"y": 531
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 84,
+				"w": 106
+			},
+			"spriteSourceSize": {
+				"h": 82,
+				"w": 104,
+				"x": 1,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_body.png",
+			"frame": {
+				"h": 64,
+				"w": 104,
+				"x": 157,
+				"y": 773
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 64,
+				"w": 106
+			},
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 104,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_body.png",
+			"frame": {
+				"h": 55,
+				"w": 104,
+				"x": 209,
+				"y": 879
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 55,
+				"w": 106
+			},
+			"spriteSourceSize": {
+				"h": 55,
+				"w": 104,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_foot_left.png",
+			"frame": {
+				"h": 95,
+				"w": 57,
+				"x": 136,
+				"y": 280
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 99,
+				"w": 58
+			},
+			"spriteSourceSize": {
+				"h": 95,
+				"w": 57,
+				"x": 1,
+				"y": 2
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_tank/zm_tank_foot_right.png",
+			"frame": {
+				"h": 93,
+				"w": 57,
+				"x": 186,
+				"y": 210
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 99,
+				"w": 58
+			},
+			"spriteSourceSize": {
+				"h": 93,
+				"w": 57,
+				"x": 0,
+				"y": 4
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_body.png",
+			"frame": {
+				"h": 91,
+				"w": 84,
+				"x": 136,
+				"y": 377
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 91,
+				"w": 84
+			},
+			"spriteSourceSize": {
+				"h": 91,
+				"w": 84,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/shotgun_remington870.png",
+			"frame": {
+				"h": 88,
+				"w": 8,
+				"x": 186,
+				"y": 269
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 88,
+				"w": 8
+			},
+			"spriteSourceSize": {
+				"h": 88,
+				"w": 8,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_l_body.png",
+			"frame": {
+				"h": 82,
+				"w": 84,
+				"x": 195,
+				"y": 279
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 84,
+				"w": 86
+			},
+			"spriteSourceSize": {
+				"h": 82,
+				"w": 84,
+				"x": 1,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_leg_right.png",
+			"frame": {
+				"h": 82,
+				"w": 47,
+				"x": 136,
+				"y": 470
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 82,
+				"w": 48
+			},
+			"spriteSourceSize": {
+				"h": 82,
+				"w": 47,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_leg_left.png",
+			"frame": {
+				"h": 82,
+				"w": 47,
+				"x": 182,
+				"y": 519
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 82,
+				"w": 48
+			},
+			"spriteSourceSize": {
+				"h": 82,
+				"w": 47,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_leg_right.png",
+			"frame": {
+				"h": 76,
+				"w": 45,
+				"x": 220,
+				"y": 470
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 77,
+				"w": 46
+			},
+			"spriteSourceSize": {
+				"h": 76,
+				"w": 45,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_head.png",
+			"frame": {
+				"h": 72,
+				"w": 58,
+				"x": 182,
+				"y": 603
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 72,
+				"w": 58
+			},
+			"spriteSourceSize": {
+				"h": 72,
+				"w": 58,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/pp_vector.png",
+			"frame": {
+				"h": 72,
+				"w": 8,
+				"x": 276,
+				"y": 269
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 72,
+				"w": 8
+			},
+			"spriteSourceSize": {
+				"h": 72,
+				"w": 8,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_HA_m.png",
+			"frame": {
+				"h": 71,
+				"w": 58,
+				"x": 231,
+				"y": 517
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 71,
+				"w": 58
+			},
+			"spriteSourceSize": {
+				"h": 71,
+				"w": 58,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_head.png",
+			"frame": {
+				"h": 69,
+				"w": 59,
+				"x": 281,
+				"y": 169
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 69,
+				"w": 59
+			},
+			"spriteSourceSize": {
+				"h": 69,
+				"w": 59,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_arm_right.png",
+			"frame": {
+				"h": 69,
+				"w": 37,
+				"x": 209,
+				"y": 985
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 69,
+				"w": 37
+			},
+			"spriteSourceSize": {
+				"h": 69,
+				"w": 37,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_arm_left.png",
+			"frame": {
+				"h": 69,
+				"w": 37,
+				"x": 342,
+				"y": 169
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 69,
+				"w": 37
+			},
+			"spriteSourceSize": {
+				"h": 69,
+				"w": 37,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_shelder_right.png",
+			"frame": {
+				"h": 38,
+				"w": 67,
+				"x": 222,
+				"y": 365
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 40,
+				"w": 68
+			},
+			"spriteSourceSize": {
+				"h": 38,
+				"w": 67,
+				"x": 1,
+				"y": 2
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_shelder_left.png",
+			"frame": {
+				"h": 33,
+				"w": 67,
+				"x": 222,
+				"y": 434
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 33,
+				"w": 67
+			},
+			"spriteSourceSize": {
+				"h": 33,
+				"w": 67,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_shelder_right.png",
+			"frame": {
+				"h": 33,
+				"w": 67,
+				"x": 262,
+				"y": 365
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 33,
+				"w": 67
+			},
+			"spriteSourceSize": {
+				"h": 33,
+				"w": 67,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_arm_left.png",
+			"frame": {
+				"h": 65,
+				"w": 34,
+				"x": 291,
+				"y": 434
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 65,
+				"w": 34
+			},
+			"spriteSourceSize": {
+				"h": 65,
+				"w": 34,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_arm_right.png",
+			"frame": {
+				"h": 65,
+				"w": 34,
+				"x": 279,
+				"y": 279
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 65,
+				"w": 34
+			},
+			"spriteSourceSize": {
+				"h": 65,
+				"w": 34,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/pistol_deagle.png",
+			"frame": {
+				"h": 65,
+				"w": 21,
+				"x": 281,
+				"y": 240
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 65,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 65,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_HA_l.png",
+			"frame": {
+				"h": 64,
+				"w": 58,
+				"x": 297,
+				"y": 346
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 64,
+				"w": 58
+			},
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 58,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_arm_right.png",
+			"frame": {
+				"h": 62,
+				"w": 27,
+				"x": 348,
+				"y": 240
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 62,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 62,
+				"w": 27,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_arm_left.png",
+			"frame": {
+				"h": 62,
+				"w": 27,
+				"x": 98,
+				"y": 637
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 62,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 62,
+				"w": 27,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_leg_left.png",
+			"frame": {
+				"h": 61,
+				"w": 36,
+				"x": 315,
+				"y": 279
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 61,
+				"w": 36
+			},
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 36,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_leg_right.png",
+			"frame": {
+				"h": 61,
+				"w": 36,
+				"x": 353,
+				"y": 269
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 61,
+				"w": 36
+			},
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 36,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_arm_up_right.png",
+			"frame": {
+				"h": 61,
+				"w": 33,
+				"x": 381,
+				"y": 151
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 61,
+				"w": 33
+			},
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 33,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_arm_up_left.png",
+			"frame": {
+				"h": 61,
+				"w": 33,
+				"x": 357,
+				"y": 332
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 61,
+				"w": 33
+			},
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 33,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_arm_right.png",
+			"frame": {
+				"h": 59,
+				"w": 19,
+				"x": 297,
+				"y": 412
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 59,
+				"w": 19
+			},
+			"spriteSourceSize": {
+				"h": 59,
+				"w": 19,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_arm_left.png",
+			"frame": {
+				"h": 59,
+				"w": 19,
+				"x": 391,
+				"y": 269
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 59,
+				"w": 19
+			},
+			"spriteSourceSize": {
+				"h": 59,
+				"w": 19,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_shelder_right.png",
+			"frame": {
+				"h": 30,
+				"w": 57,
+				"x": 190,
+				"y": 663
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 30,
+				"w": 57
+			},
+			"spriteSourceSize": {
+				"h": 30,
+				"w": 57,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_shelder_left.png",
+			"frame": {
+				"h": 30,
+				"w": 57,
+				"x": 190,
+				"y": 722
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 30,
+				"w": 57
+			},
+			"spriteSourceSize": {
+				"h": 30,
+				"w": 57,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_foot_right.png",
+			"frame": {
+				"h": 56,
+				"w": 35,
+				"x": 222,
+				"y": 663
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 56,
+				"w": 35
+			},
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 35,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_arm_right_reverse.png",
+			"frame": {
+				"h": 56,
+				"w": 29,
+				"x": 256,
+				"y": 590
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 56,
+				"w": 29
+			},
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 29,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_arm_left_reverse.png",
+			"frame": {
+				"h": 56,
+				"w": 29,
+				"x": 223,
+				"y": 754
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 56,
+				"w": 29
+			},
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 29,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_arm_right.png",
+			"frame": {
+				"h": 26,
+				"w": 55,
+				"x": 224,
+				"y": 169
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 26,
+				"w": 55
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 55,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_golen_left.png",
+			"frame": {
+				"h": 55,
+				"w": 20,
+				"x": 97,
+				"y": 773
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 55,
+				"w": 20
+			},
+			"spriteSourceSize": {
+				"h": 55,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_golen_right.png",
+			"frame": {
+				"h": 55,
+				"w": 20,
+				"x": 381,
+				"y": 214
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 55,
+				"w": 20
+			},
+			"spriteSourceSize": {
+				"h": 55,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_head.png",
+			"frame": {
+				"h": 54,
+				"w": 54,
+				"x": 416,
+				"y": 151
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 55,
+				"w": 54
+			},
+			"spriteSourceSize": {
+				"h": 54,
+				"w": 54,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_leg_right.png",
+			"frame": {
+				"h": 44,
+				"w": 54,
+				"x": 223,
+				"y": 812
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 44,
+				"w": 54
+			},
+			"spriteSourceSize": {
+				"h": 44,
+				"w": 54,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_leg_left.png",
+			"frame": {
+				"h": 44,
+				"w": 54,
+				"x": 254,
+				"y": 721
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 44,
+				"w": 54
+			},
+			"spriteSourceSize": {
+				"h": 44,
+				"w": 54,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_leg_right.png",
+			"frame": {
+				"h": 54,
+				"w": 38,
+				"x": 259,
+				"y": 648
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 54,
+				"w": 39
+			},
+			"spriteSourceSize": {
+				"h": 54,
+				"w": 38,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_leg_left.png",
+			"frame": {
+				"h": 54,
+				"w": 38,
+				"x": 287,
+				"y": 590
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 54,
+				"w": 39
+			},
+			"spriteSourceSize": {
+				"h": 54,
+				"w": 38,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_body.png",
+			"frame": {
+				"h": 32,
+				"w": 54,
+				"x": 254,
+				"y": 777
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 33,
+				"w": 54
+			},
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 54,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_body.png",
+			"frame": {
+				"h": 32,
+				"w": 54,
+				"x": 291,
+				"y": 517
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 33,
+				"w": 54
+			},
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 54,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_head.png",
+			"frame": {
+				"h": 53,
+				"w": 50,
+				"x": 299,
+				"y": 646
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 53,
+				"w": 50
+			},
+			"spriteSourceSize": {
+				"h": 53,
+				"w": 50,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "weapons/pistol_glock17.png",
+			"frame": {
+				"h": 53,
+				"w": 18,
+				"x": 423,
+				"y": 131
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 54,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 53,
+				"w": 18,
+				"x": 2,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_kist_down_left.png",
+			"frame": {
+				"h": 52,
+				"w": 31,
+				"x": 298,
+				"y": 470
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 52,
+				"w": 32
+			},
+			"spriteSourceSize": {
+				"h": 52,
+				"w": 31,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_kist_down_right.png",
+			"frame": {
+				"h": 52,
+				"w": 31,
+				"x": 300,
+				"y": 701
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 52,
+				"w": 32
+			},
+			"spriteSourceSize": {
+				"h": 52,
+				"w": 31,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_kisti_right.png",
+			"frame": {
+				"h": 52,
+				"w": 31,
+				"x": 325,
+				"y": 503
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 52,
+				"w": 32
+			},
+			"spriteSourceSize": {
+				"h": 52,
+				"w": 31,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_kisti_left.png",
+			"frame": {
+				"h": 52,
+				"w": 31,
+				"x": 352,
+				"y": 470
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 52,
+				"w": 32
+			},
+			"spriteSourceSize": {
+				"h": 52,
+				"w": 31,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_head_hair_1.png",
+			"frame": {
+				"h": 50,
+				"w": 49,
+				"x": 358,
+				"y": 395
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 51,
+				"w": 50
+			},
+			"spriteSourceSize": {
+				"h": 50,
+				"w": 49,
+				"x": 1,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_head.png",
+			"frame": {
+				"h": 50,
+				"w": 48,
+				"x": 392,
+				"y": 330
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 50,
+				"w": 48
+			},
+			"spriteSourceSize": {
+				"h": 50,
+				"w": 48,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_leg_right_side.png",
+			"frame": {
+				"h": 43,
+				"w": 49,
+				"x": 327,
+				"y": 557
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 43,
+				"w": 49
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 49,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_leg_left_side.png",
+			"frame": {
+				"h": 43,
+				"w": 49,
+				"x": 358,
+				"y": 503
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 43,
+				"w": 49
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 49,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_kist_up_left.png",
+			"frame": {
+				"h": 49,
+				"w": 37,
+				"x": 412,
+				"y": 236
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 51,
+				"w": 37
+			},
+			"spriteSourceSize": {
+				"h": 49,
+				"w": 37,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_kist_up_right.png",
+			"frame": {
+				"h": 49,
+				"w": 37,
+				"x": 412,
+				"y": 287
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 51,
+				"w": 37
+			},
+			"spriteSourceSize": {
+				"h": 49,
+				"w": 37,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_kist_right_reverse.png",
+			"frame": {
+				"h": 49,
+				"w": 33,
+				"x": 327,
+				"y": 608
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 50,
+				"w": 33
+			},
+			"spriteSourceSize": {
+				"h": 49,
+				"w": 33,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_kist_left_reverse.png",
+			"frame": {
+				"h": 49,
+				"w": 33,
+				"x": 372,
+				"y": 554
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 50,
+				"w": 33
+			},
+			"spriteSourceSize": {
+				"h": 49,
+				"w": 33,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_body.png",
+			"frame": {
+				"h": 36,
+				"w": 48,
+				"x": 403,
+				"y": 503
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 36,
+				"w": 48
+			},
+			"spriteSourceSize": {
+				"h": 36,
+				"w": 48,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head.png",
+			"frame": {
+				"h": 46,
+				"w": 46,
+				"x": 406,
+				"y": 447
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 46,
+				"w": 46
+			},
+			"spriteSourceSize": {
+				"h": 46,
+				"w": 46,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_shelder_left.png",
+			"frame": {
+				"h": 33,
+				"w": 44,
+				"x": 409,
+				"y": 382
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 33,
+				"w": 44
+			},
+			"spriteSourceSize": {
+				"h": 33,
+				"w": 44,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_shelder_right.png",
+			"frame": {
+				"h": 32,
+				"w": 44,
+				"x": 157,
+				"y": 879
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 33,
+				"w": 44
+			},
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 44,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_head_glasses.png",
+			"frame": {
+				"h": 32,
+				"w": 44,
+				"x": 442,
+				"y": 326
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 32,
+				"w": 44
+			},
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 44,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_boot_left_yellow.png",
+			"frame": {
+				"h": 43,
+				"w": 24,
+				"x": 438,
+				"y": 207
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 43,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_boot_right.png",
+			"frame": {
+				"h": 43,
+				"w": 24,
+				"x": 1,
+				"y": 995
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 43,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_boot_right_black.png",
+			"frame": {
+				"h": 43,
+				"w": 24,
+				"x": 46,
+				"y": 995
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 43,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_boot_left.png",
+			"frame": {
+				"h": 43,
+				"w": 24,
+				"x": 451,
+				"y": 233
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 43,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_boot_left_black.png",
+			"frame": {
+				"h": 43,
+				"w": 24,
+				"x": 463,
+				"y": 278
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 43,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 43,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_head_hair_2.png",
+			"frame": {
+				"h": 39,
+				"w": 42,
+				"x": 477,
+				"y": 233
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 39,
+				"w": 42
+			},
+			"spriteSourceSize": {
+				"h": 39,
+				"w": 42,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_hand_right.png",
+			"frame": {
+				"h": 26,
+				"w": 42,
+				"x": 472,
+				"y": 151
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 42
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 42,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_golen_right_side.png",
+			"frame": {
+				"h": 41,
+				"w": 24,
+				"x": 483,
+				"y": 195
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 41,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 41,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_golen_left_side.png",
+			"frame": {
+				"h": 41,
+				"w": 24,
+				"x": 500,
+				"y": 131
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 41,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 41,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_hand_right.png",
+			"frame": {
+				"h": 40,
+				"w": 34,
+				"x": 444,
+				"y": 372
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 41,
+				"w": 34
+			},
+			"spriteSourceSize": {
+				"h": 40,
+				"w": 34,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_hand_left.png",
+			"frame": {
+				"h": 40,
+				"w": 34,
+				"x": 476,
+				"y": 323
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 41,
+				"w": 34
+			},
+			"spriteSourceSize": {
+				"h": 40,
+				"w": 34,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_hand_left.png",
+			"frame": {
+				"h": 40,
+				"w": 31,
+				"x": 444,
+				"y": 414
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 41,
+				"w": 31
+			},
+			"spriteSourceSize": {
+				"h": 40,
+				"w": 31,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_hand_right.png",
+			"frame": {
+				"h": 40,
+				"w": 31,
+				"x": 489,
+				"y": 277
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 41,
+				"w": 31
+			},
+			"spriteSourceSize": {
+				"h": 40,
+				"w": 31,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_shelder_right_1.png",
+			"frame": {
+				"h": 27,
+				"w": 39,
+				"x": 480,
+				"y": 365
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 27,
+				"w": 39
+			},
+			"spriteSourceSize": {
+				"h": 27,
+				"w": 39,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "Man_shelder_left_1.png",
+			"frame": {
+				"h": 27,
+				"w": 39,
+				"x": 518,
+				"y": 221
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 27,
+				"w": 39
+			},
+			"spriteSourceSize": {
+				"h": 27,
+				"w": 39,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head_claw_left.png",
+			"frame": {
+				"h": 38,
+				"w": 30,
+				"x": 526,
+				"y": 111
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 38,
+				"w": 31
+			},
+			"spriteSourceSize": {
+				"h": 38,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head_claw_right.png",
+			"frame": {
+				"h": 38,
+				"w": 30,
+				"x": 526,
+				"y": 151
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 38,
+				"w": 31
+			},
+			"spriteSourceSize": {
+				"h": 38,
+				"w": 30,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_bedro_left.png",
+			"frame": {
+				"h": 38,
+				"w": 20,
+				"x": 300,
+				"y": 755
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 39,
+				"w": 20
+			},
+			"spriteSourceSize": {
+				"h": 38,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_bedro_right.png",
+			"frame": {
+				"h": 38,
+				"w": 20,
+				"x": 358,
+				"y": 447
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 39,
+				"w": 20
+			},
+			"spriteSourceSize": {
+				"h": 38,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_hand_left.png",
+			"frame": {
+				"h": 35,
+				"w": 35,
+				"x": 333,
+				"y": 701
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 36,
+				"w": 36
+			},
+			"spriteSourceSize": {
+				"h": 35,
+				"w": 35,
+				"x": 1,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_hand_right.png",
+			"frame": {
+				"h": 35,
+				"w": 35,
+				"x": 351,
+				"y": 643
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 36,
+				"w": 36
+			},
+			"spriteSourceSize": {
+				"h": 35,
+				"w": 35,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head_claw_medium_right.png",
+			"frame": {
+				"h": 35,
+				"w": 15,
+				"x": 259,
+				"y": 704
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 35,
+				"w": 16
+			},
+			"spriteSourceSize": {
+				"h": 35,
+				"w": 15,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head_claw_medium_left.png",
+			"frame": {
+				"h": 35,
+				"w": 15,
+				"x": 333,
+				"y": 738
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 35,
+				"w": 16
+			},
+			"spriteSourceSize": {
+				"h": 35,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_arm_stay_left.png",
+			"frame": {
+				"h": 34,
+				"w": 27,
+				"x": 526,
+				"y": 191
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 35,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 34,
+				"w": 27,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_hand_left_reverse.png",
+			"frame": {
+				"h": 34,
+				"w": 27,
+				"x": 378,
+				"y": 605
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 36,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 34,
+				"w": 27,
+				"x": 0,
+				"y": 2
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_hand_up_left.png",
+			"frame": {
+				"h": 34,
+				"w": 27,
+				"x": 558,
+				"y": 111
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 36,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 34,
+				"w": 27,
+				"x": 0,
+				"y": 2
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_arm_stay_right.png",
+			"frame": {
+				"h": 34,
+				"w": 27,
+				"x": 558,
+				"y": 147
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 35,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 34,
+				"w": 27,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_hand_right_armed_1.png",
+			"frame": {
+				"h": 33,
+				"w": 22,
+				"x": 578,
+				"y": 1
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 33,
+				"w": 22
+			},
+			"spriteSourceSize": {
+				"h": 33,
+				"w": 22,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_hand_weapon_right.png",
+			"frame": {
+				"h": 33,
+				"w": 22,
+				"x": 578,
+				"y": 36
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 33,
+				"w": 22
+			},
+			"spriteSourceSize": {
+				"h": 33,
+				"w": 22,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_hand_right_armed.png",
+			"frame": {
+				"h": 33,
+				"w": 21,
+				"x": 578,
+				"y": 71
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 33,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 33,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_arm_right_stay.png",
+			"frame": {
+				"h": 32,
+				"w": 27,
+				"x": 266,
+				"y": 868
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 32,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 27,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_arm_left_stay.png",
+			"frame": {
+				"h": 32,
+				"w": 27,
+				"x": 269,
+				"y": 811
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 32,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 27,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_hand_right.png",
+			"frame": {
+				"h": 31,
+				"w": 29,
+				"x": 266,
+				"y": 902
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 31,
+				"w": 29
+			},
+			"spriteSourceSize": {
+				"h": 31,
+				"w": 29,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_giant/zm_giant_hand_left.png",
+			"frame": {
+				"h": 31,
+				"w": 29,
+				"x": 266,
+				"y": 935
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 31,
+				"w": 29
+			},
+			"spriteSourceSize": {
+				"h": 31,
+				"w": 29,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_feet_right.png",
+			"frame": {
+				"h": 29,
+				"w": 30,
+				"x": 295,
+				"y": 845
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 29,
+				"w": 30
+			},
+			"spriteSourceSize": {
+				"h": 29,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_feet_left.png",
+			"frame": {
+				"h": 29,
+				"w": 30,
+				"x": 298,
+				"y": 811
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 29,
+				"w": 30
+			},
+			"spriteSourceSize": {
+				"h": 29,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_golen_right.png",
+			"frame": {
+				"h": 30,
+				"w": 18,
+				"x": 351,
+				"y": 680
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 30,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 30,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_golen_left.png",
+			"frame": {
+				"h": 30,
+				"w": 18,
+				"x": 310,
+				"y": 777
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 30,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 30,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_lang_begin.png",
+			"frame": {
+				"h": 29,
+				"w": 22,
+				"x": 295,
+				"y": 877
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 29,
+				"w": 22
+			},
+			"spriteSourceSize": {
+				"h": 29,
+				"w": 22,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/human_leg_right_jeans_blood.png",
+			"frame": {
+				"h": 28,
+				"w": 18,
+				"x": 162,
+				"y": 637
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 28,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_leg_left.png",
+			"frame": {
+				"h": 28,
+				"w": 18,
+				"x": 91,
+				"y": 995
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 28,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_leg_right_jeans.png",
+			"frame": {
+				"h": 28,
+				"w": 18,
+				"x": 280,
+				"y": 968
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 28,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_leg_left_jeans.png",
+			"frame": {
+				"h": 28,
+				"w": 18,
+				"x": 280,
+				"y": 998
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 28,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/human_leg_left_jeans_blood.png",
+			"frame": {
+				"h": 28,
+				"w": 18,
+				"x": 297,
+				"y": 901
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 28,
+				"w": 18
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_arm_left.png",
+			"frame": {
+				"h": 28,
+				"w": 16,
+				"x": 190,
+				"y": 754
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 28,
+				"w": 16
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 16,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_arm_right.png",
+			"frame": {
+				"h": 28,
+				"w": 15,
+				"x": 291,
+				"y": 573
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 28,
+				"w": 16
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_left_shelder.png",
+			"frame": {
+				"h": 26,
+				"w": 17,
+				"x": 409,
+				"y": 428
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 17
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 17,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_left_shelder.png",
+			"frame": {
+				"h": 26,
+				"w": 17,
+				"x": 297,
+				"y": 931
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 26,
+				"w": 17
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 17,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_right_shelder.png",
+			"frame": {
+				"h": 26,
+				"w": 17,
+				"x": 300,
+				"y": 959
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 26,
+				"w": 17
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 17,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_right_arm.png",
+			"frame": {
+				"h": 26,
+				"w": 15,
+				"x": 316,
+				"y": 931
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 26,
+				"w": 15
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_left_arm.png",
+			"frame": {
+				"h": 26,
+				"w": 14,
+				"x": 117,
+				"y": 153
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 15
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 14,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_left_kist.png",
+			"frame": {
+				"h": 26,
+				"w": 14,
+				"x": 145,
+				"y": 153
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 14
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 14,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_right_kist.png",
+			"frame": {
+				"h": 26,
+				"w": 13,
+				"x": 518,
+				"y": 262
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 14
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 13,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_shelder_left.png",
+			"frame": {
+				"h": 23,
+				"w": 24,
+				"x": 317,
+				"y": 901
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 24,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 23,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_shelder_right.png",
+			"frame": {
+				"h": 23,
+				"w": 24,
+				"x": 310,
+				"y": 987
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 24,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 23,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_head_eyes_blue.png",
+			"frame": {
+				"h": 6,
+				"w": 24,
+				"x": 500,
+				"y": 174
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 6,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 6,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_lang_end.png",
+			"frame": {
+				"h": 23,
+				"w": 12,
+				"x": 298,
+				"y": 503
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 23,
+				"w": 12
+			},
+			"spriteSourceSize": {
+				"h": 23,
+				"w": 12,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_hand_left_stay.png",
+			"frame": {
+				"h": 22,
+				"w": 21,
+				"x": 269,
+				"y": 845
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 23,
+				"w": 23
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 21,
+				"x": 2,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_hand_right_stay.png",
+			"frame": {
+				"h": 22,
+				"w": 21,
+				"x": 319,
+				"y": 959
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 23,
+				"w": 23
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_left_arm.png",
+			"frame": {
+				"h": 22,
+				"w": 21,
+				"x": 333,
+				"y": 927
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 22,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_hand_punch_left.png",
+			"frame": {
+				"h": 22,
+				"w": 21,
+				"x": 335,
+				"y": 983
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 22,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "human_v2/human_BA_m_hand_punch_right.png",
+			"frame": {
+				"h": 22,
+				"w": 21,
+				"x": 342,
+				"y": 951
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 22,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_hand_right.png",
+			"frame": {
+				"h": 22,
+				"w": 15,
+				"x": 352,
+				"y": 151
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 22,
+				"w": 15
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_hand_left.png",
+			"frame": {
+				"h": 22,
+				"w": 15,
+				"x": 335,
+				"y": 1007
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 22,
+				"w": 15
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_right_hand.png",
+			"frame": {
+				"h": 22,
+				"w": 15,
+				"x": 358,
+				"y": 975
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 22,
+				"w": 15
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_left_hand.png",
+			"frame": {
+				"h": 22,
+				"w": 15,
+				"x": 359,
+				"y": 999
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 22,
+				"w": 15
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_foot_left.png",
+			"frame": {
+				"h": 22,
+				"w": 12,
+				"x": 173,
+				"y": 153
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 22,
+				"w": 12
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 12,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fast/zm_fast_foot_right.png",
+			"frame": {
+				"h": 22,
+				"w": 12,
+				"x": 326,
+				"y": 843
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 22,
+				"w": 12
+			},
+			"spriteSourceSize": {
+				"h": 22,
+				"w": 12,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zombie/zm_right_arm.png",
+			"frame": {
+				"h": 21,
+				"w": 21,
+				"x": 329,
+				"y": 809
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 21,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 21,
+				"w": 21,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_lang_mid.png",
+			"frame": {
+				"h": 21,
+				"w": 19,
+				"x": 330,
+				"y": 777
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 21,
+				"w": 19
+			},
+			"spriteSourceSize": {
+				"h": 21,
+				"w": 19,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_grabber/zm_grabber_eye.png",
+			"frame": {
+				"h": 17,
+				"w": 19,
+				"x": 478,
+				"y": 131
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 17,
+				"w": 19
+			},
+			"spriteSourceSize": {
+				"h": 17,
+				"w": 19,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_left_hand.png",
+			"frame": {
+				"h": 19,
+				"w": 14,
+				"x": 340,
+				"y": 755
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 19,
+				"w": 14
+			},
+			"spriteSourceSize": {
+				"h": 19,
+				"w": 14,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head_claw_little_left.png",
+			"frame": {
+				"h": 19,
+				"w": 9,
+				"x": 223,
+				"y": 868
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 19,
+				"w": 9
+			},
+			"spriteSourceSize": {
+				"h": 19,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_slime/zm_slime_head_claw_little_right.png",
+			"frame": {
+				"h": 19,
+				"w": 9,
+				"x": 244,
+				"y": 868
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 19,
+				"w": 9
+			},
+			"spriteSourceSize": {
+				"h": 19,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "zm_fat/zombie_fat_right_hand.png",
+			"frame": {
+				"h": 17,
+				"w": 14,
+				"x": 279,
+				"y": 346
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 17,
+				"w": 14
+			},
+			"spriteSourceSize": {
+				"h": 17,
+				"w": 14,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		{
+			"filename": "DELETE.png",
+			"frame": {
+				"h": 1,
+				"w": 1,
+				"x": 372,
+				"y": 605
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 1,
+				"w": 1
+			},
+			"spriteSourceSize": {
+				"h": 1,
+				"w": 1,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		}
+	],
+	"meta": {
+		"app": "Spriter",
+		"format": "RGBA8888",
+		"image": "spriter_atlas.png",
+		"scale": 1,
+		"size": {
+			"h": 1024,
+			"w": 1024
+		},
+		"version": "r11"
+	}
+}
