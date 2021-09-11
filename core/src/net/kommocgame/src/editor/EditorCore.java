@@ -333,7 +333,10 @@ public class EditorCore implements ITraceBody {
 			
 			String info_level = jsonWriter.toJson(getLevel(), LevelBase.class);
 			String info_objects = jsonWriter.toJson(getListNodes(), Array.class);
-			
+
+			info_level = jsonWriter.prettyPrint(info_level);
+			info_objects = jsonWriter.prettyPrint(info_objects);
+
 			System.out.println("	### JSON ###	" + info_level);
 			System.out.println("	### JSON ###	" + info_objects);
 			
